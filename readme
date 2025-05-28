@@ -1,0 +1,3 @@
+index.js mein <your_mongodb_uri> ko apne MongoDB connection string se replace karna hoga.,
+Fir terminal mein nodemon index.js ya node index.js run karke server start karo.,
+Endpoints aap Postman ya koi bhi HTTP client se test kar sakte hain.,
